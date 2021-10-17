@@ -2,7 +2,7 @@ Follow to my github : https://github.com/Ahsanfn
 
 Creating your first app
 
-Note: HTML,CSS and JAVA SCRIPTS use to create this website
+Note: This app is created by flutter 
 
 © 2021 Ahsan All Rights Reserved
 
